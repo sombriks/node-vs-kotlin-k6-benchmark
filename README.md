@@ -146,9 +146,9 @@ default ✓ [======================================] 10 VUs  30s
 
 While node/koa ran **30714 iterations**, java/javalin ran **145571 iterations**.
 
-Java outperformed Node in 470% (approximated value).
+Java outperformed Node in **470%** (approximated value).
 
-Both delivers 100% success for 10 concurrent virtual users during 30 seconds.
+Both delivered 100% success for 10 concurrent virtual users during 30 seconds.
 
 ## Further reading
 

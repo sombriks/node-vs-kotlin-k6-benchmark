@@ -156,7 +156,7 @@ Both delivered 100% success for 10 concurrent virtual users during 30 seconds.
 - Increase workload until the failure point in each benchmark.
 
 [title]: https://github.com/sombriks/node-vs-kotlin-k6-benchmark
-[article]: <to be written>
+[article]: https://sombriks.com/blog/0068-benchmark-with-k6/
 [koa]: https://github.com/sombriks/sample-htmx-koa
 [javalin]: https://github.com/sombriks/sample-htmx-javalin
 [k6]: https://grafana.com/docs/k6/latest/get-started/installation/#fedoracentos

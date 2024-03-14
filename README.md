@@ -13,6 +13,10 @@ For this example we'll test two similar projects:
 - [sample-htmx-koa][koa]
 - [sample-htmx-javalin][javalin]
 
+This one was added later:
+
+- [sample-htmx-spring][spring]
+
 ## How to run
 
 - install [k6][k6]
@@ -159,6 +163,7 @@ Both delivered 100% success for 10 concurrent virtual users during 30 seconds.
 [article]: https://sombriks.com/blog/0068-benchmark-with-k6/
 [koa]: https://github.com/sombriks/sample-htmx-koa
 [javalin]: https://github.com/sombriks/sample-htmx-javalin
+[spring]: https://github.com/sombriks/sample-htmx-spring
 [k6]: https://grafana.com/docs/k6/latest/get-started/installation/#fedoracentos
 [k6-options]: https://grafana.com/docs/k6/latest/results-output/end-of-test/
 [node-cluster]: https://nodejs.org/api/cluster.html#cluster
